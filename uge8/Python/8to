@@ -1,0 +1,7 @@
+iterations = 200
+tau = 0.248
+
+x0 = [0] * iterations # steps
+y0 = [0] * iterations
+x0[0] = 2 # start position
+y0[0] = 2
