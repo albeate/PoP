@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1473333634 "uge1_PoP_AMG.tex" "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf" "uge1_PoP_AMG" 1473333635
+["pdflatex"] 1473333952 "uge1_PoP_AMG.tex" "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf" "uge1_PoP_AMG" 1473333952
   "/etc/texmf/web2c/texmf.cnf" 1469388582 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.aux" 1473333635 974 48d6c94d32b1fcd5a0c48cbd646495b4 ""
+  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.aux" 1473333952 974 4269cd593c3a4ce2d4cf330380087170 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -68,11 +68,11 @@
   "screen_game0.png" 1473173406 23507 8dfaf2f6b8f62e43cf42d751df542080 ""
   "screen_game1.png" 1473173483 14906 5026b812967f1dd3f43405f15a064be8 ""
   "sprite.png" 1473170451 2273 d116cb2630f361c6cce54f4b8d4e06e0 ""
-  "uge1_PoP_AMG.aux" 1473333635 974 48d6c94d32b1fcd5a0c48cbd646495b4 ""
-  "uge1_PoP_AMG.tex" 1473333634 3792 2b1b97ac224611f7b9f0be3247c972ad ""
+  "uge1_PoP_AMG.aux" 1473333952 974 4269cd593c3a4ce2d4cf330380087170 ""
+  "uge1_PoP_AMG.tex" 1473333951 3808 8673e58b452cd8e3c007f046990ead2e ""
   (generated)
-  "uge1_PoP_AMG.log"
   "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf"
   "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.log"
+  "uge1_PoP_AMG.log"
   "uge1_PoP_AMG.pdf"
   "uge1_PoP_AMG.aux"
