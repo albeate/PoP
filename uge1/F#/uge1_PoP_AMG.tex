@@ -54,11 +54,20 @@ Vi følte dyb i vores hjerter at vi skulle skabe et program, hvori en kat skulle
 For at få vores program til, at virke måtte vi dog bruge \includegraphics[scale=0.5]{flag.png} istedet for \includegraphics[scale=0.5]{sprite.png}.
 Det blev vi nødsaget til, da alle figure skulle \textit{starte} samtidigt.\\
 Skærmbilleder af Dupi Dupi,\\
-\includegraphics[scale=0.5]{screen_1.png}
-\includegraphics[scale=0.5]{screen_3.png}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.3]{screen_0.png}
+	\caption{skærmbillede 0}
+	\label{fig: skitse}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.3]{screen_1.png}
+	\caption{skærmbillede 1}
+	\label{fig: skitse}
+\end{figure}
 
 
-\newpage
 \section*{1.2: Popping Cats af AMG}
 Spillet er inspireret af \textit{Space Invaders}. Idéen med spillet er, at du spiller en drage som skyder efter kattene, der kommer ind fra siden, hvor en dødsanimation dukker op når en kat er ramt. Spilleren taber hvis dragen bliver ramt/rammer en af kattene. Spilleren vinder forsåvidt ikke, men får derimod to score. En for tid for overlevelse og en for hvor mange katte der er blevet "poppet".
 \begin{figure}[h]
@@ -68,9 +77,21 @@ Spillet er inspireret af \textit{Space Invaders}. Idéen med spillet er, at du s
 	\label{fig: skitse_spil}
 \end{figure}
 
+
 Skærmbilleder af Popping Cats,\\
-\includegraphics[scale=0.5]{screen_game0.png}
-\includegraphics[scale=0.5]{screen_game1.png}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.3]{screen_game0.png}
+	\caption{skærmbillede 2}
+	\label{fig: skitse}
+\end{figure}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.3]{screen_game1.png}
+	\caption{skærmbillede 3}
+	\label{fig: skitse}
+\end{figure}
+
 
 Der er en fejl i spillet. Når du rammer bunden af en kat bliver skudet ikke ødelagt, men fortsætter ind i den næste kat. Fejlen opstår enten på grund af forskellen i de to figuer er forskellige størrelser, eller at skudet ikke når at registrerer at den bliver ramt af katten.
 \end{document}

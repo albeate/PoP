@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1473318034 "uge1_PoP_AMG.tex" "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf" "uge1_PoP_AMG" 1473318034
+["pdflatex"] 1473333634 "uge1_PoP_AMG.tex" "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf" "uge1_PoP_AMG" 1473333635
   "/etc/texmf/web2c/texmf.cnf" 1469388582 1101 af7716885e081ab43982cab7b4672c1a ""
-  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.aux" 1473318034 446 aa38181c3ad070dd6572c6c463e06745 ""
+  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.aux" 1473333635 974 48d6c94d32b1fcd5a0c48cbd646495b4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -63,16 +63,16 @@
   "flag.png" 1473170529 2267 20ce1a13b8644441bd0ba1b4dc716e41 ""
   "kladde_ide.png" 1473169204 26394 3ddd4b84a196b2c12e885c1340777764 ""
   "kladde_spil.png" 1473171823 20535 14b577ccccd96a77257086627afaa490 ""
-  "screen_1.png" 1473172244 24998 1c58055f27df6f7c1f78aa6b7fff28a8 ""
-  "screen_3.png" 1473172290 29565 414300a8beff0162e3350725dadc99af ""
+  "screen_0.png" 1473172244 24998 1c58055f27df6f7c1f78aa6b7fff28a8 ""
+  "screen_1.png" 1473172265 20846 a79e0b52400d1b7c86ae959128b80a2f ""
   "screen_game0.png" 1473173406 23507 8dfaf2f6b8f62e43cf42d751df542080 ""
   "screen_game1.png" 1473173483 14906 5026b812967f1dd3f43405f15a064be8 ""
   "sprite.png" 1473170451 2273 d116cb2630f361c6cce54f4b8d4e06e0 ""
-  "uge1_PoP_AMG.aux" 1473318034 446 aa38181c3ad070dd6572c6c463e06745 ""
-  "uge1_PoP_AMG.tex" 1473174127 3431 c31cbd9d7a7d25465b322e88a5377b9f ""
+  "uge1_PoP_AMG.aux" 1473333635 974 48d6c94d32b1fcd5a0c48cbd646495b4 ""
+  "uge1_PoP_AMG.tex" 1473333634 3792 2b1b97ac224611f7b9f0be3247c972ad ""
   (generated)
-  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf"
-  "uge1_PoP_AMG.aux"
-  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.log"
   "uge1_PoP_AMG.log"
+  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.pdf"
+  "/home/albeate/Dropbox/Datalogi/år0/PoP/uge1/F#/uge1_PoP_AMG.log"
   "uge1_PoP_AMG.pdf"
+  "uge1_PoP_AMG.aux"
